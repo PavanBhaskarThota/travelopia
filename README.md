@@ -43,7 +43,10 @@ Below are screenshots of the website:
 - ## Modal:
   ![Site Preview](https://iili.io/JEoEZ7e.png)
 - ## Mobile view:
-  ![Site Preview](https://iili.io/JEojKvI.png)![Site Preview](https://iili.io/JEojd4R.png)
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://iili.io/JEojKvI.png" alt="Mobile View 1" width="400" />
+   <img src="https://iili.io/JEojd4R.png" alt="Mobile View 2" width="400" />
+ </div>
 
 ## Styling
 
