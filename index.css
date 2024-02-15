@@ -24,11 +24,19 @@
   font-weight: 400;
 }
 
-#header div{
+#header .navbarLinks{
   display: flex;
   gap: 20px;
   color: #001524;
   margin-right: 40px;
+}
+
+.hamburger-button{
+  margin-right: 40px;
+  font-size: 40px;
+  background-color: transparent;
+  color: #ffff;
+  border: none;
 }
 
 #mainBody{
@@ -57,19 +65,21 @@
 
 .content {
   position: absolute;
-  width: 350px;
+  /* width: 350px; */
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
   color: white;
-  z-index: 1; 
+  line-height: 40px;
+  /* z-index: 1;  */
 }
 
 .content button{
   margin-top: 20px;
-  /* padding: 10px; */
-  width: 150px;
+  /* width: 150px; */
+  padding-left: 20px;
+  padding-right: 20px;
   height: 40px;
   border-radius: 40px;
   border: none;
@@ -104,12 +114,11 @@
   border-radius: 10px;
   z-index: 1;
   
-  width: 400px;
-  height: 200px;
+  width: 450px;
+  height: 220px;
   display: flex;
   justify-content: center;
   align-items: center;
- 
   
 }
 
@@ -152,14 +161,45 @@
 }
 
 
+
+
+@media screen and (min-width:650px) {
+  .hamburger-button{
+    display: none;
+  }
+  
+}
+
+
 @media screen  and (max-width:650px) {
+
+  #header .navbarLinks{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    left: 0;
+    top: 100px;
+    position: absolute;
+    height: calc(80vh);
+    text-align: center;
+    width: 100%;
+    height: 55vh;
+    background-color: #dfe7e0;
+    z-index: 1;
+    font-size: 20px;
+    
+    padding-top: 60px;
+  }
+
+  #header .navbarLinks p{
+    font-weight: 600;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
   #header h1{
     margin-left: 10px;
     font-size: 30px;
-  }
-
-  #header div{
-    display: none;
   }
 
   .contactLinks{
@@ -174,5 +214,6 @@
   margin-right: 10px;
   font-size: 12px;
 }
+
 
 }

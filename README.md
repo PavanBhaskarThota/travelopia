@@ -78,7 +78,7 @@ These fonts are chosen for their readability, elegance, and compatibility with t
 ## Links
 
 - [GitHub Repository](https://github.com/PavanBhaskarThota/travelopia): Repository containing the source code for the Travelopia website.
-- [Live Demo](https://travelopia-withyou.netlify.app/): Hosted version of the website for demonstration purposes.
+- [Live Demo](https://travelopia-joinus.netlify.app/): Hosted version of the website for demonstration purposes.
 
 ---
 
