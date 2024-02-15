@@ -35,10 +35,13 @@ The project has a simple file structure consisting of HTML, CSS, and JavaScript 
 - **images/**: Directory containing image assets used in the website.
 
 ### Screenshots:
-Below are screenshots of the website:
-- [Screenshot 1](image_link_1)
-- [Screenshot 2](image_link_2)
 
+Below are screenshots of the website:
+
+- [Screenshot 1](https://i.ibb.co/Hnqsm7b/Screenshot-2024-02-15-135728.png)
+  ![Site Preview](https://i.ibb.co/Hnqsm7b/Screenshot-2024-02-15-135728.png)
+- [Screenshot 2](https://i.ibb.co/RDV0KQM/Screenshot-2024-02-15-135742.png)
+  ![Site Preview](https://i.ibb.co/RDV0KQM/Screenshot-2024-02-15-135742.png)
 
 ## Styling
 
@@ -75,7 +78,7 @@ These fonts are chosen for their readability, elegance, and compatibility with t
 ## Links
 
 - [GitHub Repository](https://github.com/PavanBhaskarThota/travelopia): Repository containing the source code for the Travelopia website.
-- [Live Demo](https://yourusername.github.io/travelopia): Hosted version of the website for demonstration purposes.
+- [Live Demo](https://travelopia-withyou.netlify.app/): Hosted version of the website for demonstration purposes.
 
 ---
 
