@@ -39,11 +39,12 @@ The project has a simple file structure consisting of HTML, CSS, and JavaScript 
 Below are screenshots of the website:
 
 - ## Home page:
-  ![Site Preview](https://i.ibb.co/pwJP3Lw/index-html-home.png)
+  ![Site Preview](https://iili.io/JEoEtku.png)
 - ## Modal:
-  ![Site Preview](https://i.ibb.co/x2PH6jF/index-html-modal.png)
+  ![Site Preview](https://iili.io/JEoEZ7e.png)
 - ## Mobile view:
-  ![Site Preview](https://i.ibb.co/BCc1cm8/index-html-mobile.png)(https://i.ibb.co/dByD0yf/index-html-i-Phone-XR-nav.png)
+  ![Site Preview](https://i.ibb.co/BCc1cm8/index-html-mobile.png)
+  ![Site Preview](https://i.ibb.co/dByD0yf/index-html-i-Phone-XR-nav.png)
 
 ## Styling
 
