@@ -43,8 +43,7 @@ Below are screenshots of the website:
 - ## Modal:
   ![Site Preview](https://iili.io/JEoEZ7e.png)
 - ## Mobile view:
-  ![Site Preview](https://i.ibb.co/BCc1cm8/index-html-mobile.png)
-  ![Site Preview](https://i.ibb.co/dByD0yf/index-html-i-Phone-XR-nav.png)
+  ![Site Preview](https://iili.io/JEojKvI.png)![Site Preview](https://iili.io/JEojd4R.png)
 
 ## Styling
 
