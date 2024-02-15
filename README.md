@@ -38,10 +38,12 @@ The project has a simple file structure consisting of HTML, CSS, and JavaScript 
 
 Below are screenshots of the website:
 
-- [Screenshot 1](https://i.ibb.co/Hnqsm7b/Screenshot-2024-02-15-135728.png)
-  ![Site Preview](https://i.ibb.co/Hnqsm7b/Screenshot-2024-02-15-135728.png)
-- [Screenshot 2](https://i.ibb.co/RDV0KQM/Screenshot-2024-02-15-135742.png)
-  ![Site Preview](https://i.ibb.co/RDV0KQM/Screenshot-2024-02-15-135742.png)
+- ## Home page:
+  ![Site Preview](https://i.ibb.co/pwJP3Lw/index-html-home.png)
+- ## Modal:
+  ![Site Preview](https://i.ibb.co/x2PH6jF/index-html-modal.png)
+- ## Mobile view:
+  ![Site Preview](https://i.ibb.co/BCc1cm8/index-html-mobile.png)(https://i.ibb.co/dByD0yf/index-html-i-Phone-XR-nav.png)
 
 ## Styling
 
@@ -78,7 +80,7 @@ These fonts are chosen for their readability, elegance, and compatibility with t
 ## Links
 
 - [GitHub Repository](https://github.com/PavanBhaskarThota/travelopia): Repository containing the source code for the Travelopia website.
-- [Live Demo](https://travelopia-joinus.netlify.app/): Hosted version of the website for demonstration purposes.
+- [Live Demo](https://travelopia-com.netlify.app/): Hosted version of the website for demonstration purposes.
 
 ---
 

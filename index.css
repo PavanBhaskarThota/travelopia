@@ -206,6 +206,11 @@
     gap: 10px;
   }
 
+  .modalbody{
+    width: 350px;
+    height: 300px;
+  }
+
 
 #footer div:nth-child(1){
   margin-left: 10px;
